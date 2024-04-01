@@ -1,13 +1,3 @@
-<div align="center">
-	<br />
-	<p>
-		<a href="https://discord.js.org"><img src="https://discord.js.org/static/logo.svg" width="546" alt="discord.js" /></a>
-	</p>
-	<br />
-	<p>
-
-</div>
-
 # v14 Erasty Uptime
 
 
@@ -34,4 +24,4 @@ Discord Sunucumuz [Erasty Development](https://discord.gg/PqDVN6D47c)
 
 
       
-     Bizler için :gem: Değerlisiniz...
+     Bizler için 💎 Değerlisiniz...
